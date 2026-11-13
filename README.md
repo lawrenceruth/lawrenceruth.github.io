@@ -2,6 +2,8 @@
 
 A personal portfolio website showcasing my data analytics projects, experience and skills.
 
+![Portfolio](Portfolio.PNG)
+
 **Live site:** [lawrenceruth.github.io](https://lawrenceruth.github.io)
 
 ## About
