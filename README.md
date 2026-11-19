@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my data analytics projects, experience and skills.
 
-![Portfolio](Portfolio.PNG)
+![Portfolio preview](Portfolio.PNG)
 
 **Live site:** [lawrenceruth.github.io](https://lawrenceruth.github.io)
 
@@ -17,6 +17,7 @@ I'm a data analyst who turns operational data into clear decisions, using SQL, P
 | DataCo Global: Sales & Customer Intelligence | Power BI, Power Query, DAX | [Repo](https://github.com/lawrenceruth/DataCo-Global) | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDM0ZDJkMmMtYjQ5Ni00ZDA1LThjZTUtN2ZjNTYwYjNmMGJlIiwidCI6ImI2YTZhZWM2LTc5OTktNDhhYS04YTVlLWYwN2JlMjEzZGJlYyJ9) |
 | TacoGo Delivery: Order Decline Diagnostics | Power BI, DAX, Power Automate | [Repo](https://github.com/lawrenceruth/TacoGo-Delivery) | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjQ2ZTZkMGMtMzVlZi00MTYzLThiNGMtYjhmZDM3ZGZiYjIzIiwidCI6ImI2YTZhZWM2LTc5OTktNDhhYS04YTVlLWYwN2JlMjEzZGJlYyJ9) |
 | GeoPulse: Store Catchment & Mobility Analytics | SQL, Python, BigQuery, Streamlit, Plotly | [Repo](https://github.com/lawrenceruth/GeoPulse) | [App](https://geopulse-retail-analytics.streamlit.app/) |
+| Orion Workforce Analytics: SQL Database Capstone | MySQL, MySQL Workbench, SQL | [Repo](https://github.com/lawrenceruth/Orion-workforce-analytics) | n/a |
 | CareFlow: EHR Process Mining | Python, SQL, BigQuery, dbt, Power BI | Coming soon | Coming soon |
 | Bank Customer Churn Analysis | Excel, PivotTables | [Repo](https://github.com/lawrenceruth/Customer-Churn-Analysis) | n/a |
 | GlowRoot Naturals: Field Activation Dashboard | Excel, PivotTables, COUNTIFS | [Repo](https://github.com/lawrenceruth/Field-Activation-Performance-Analysis) | n/a |
@@ -31,6 +32,12 @@ I'm a data analyst who turns operational data into clear decisions, using SQL, P
 
 1. Download or clone this repository.
 2. Open `index.html` in any web browser.
+
+## Update the site
+
+1. Replace `index.html` in this repository with the new version, keeping the same file name.
+2. Commit the change. GitHub Pages republishes within a few minutes.
+3. Hard refresh the live site (Ctrl+F5) to see the update.
 
 ## Deploy
 
